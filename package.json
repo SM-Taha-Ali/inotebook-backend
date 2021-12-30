@@ -1,0 +1,24 @@
+{
+  "name": "inotebook-backend",
+  "version": "1.0.0",
+  "description": "notebook on the cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SM-Taha-Ali/inotebook-backend.git"
+  },
+  "author": "Clixicon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SM-Taha-Ali/inotebook-backend/issues"
+  },
+  "homepage": "https://github.com/SM-Taha-Ali/inotebook-backend#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4",
+    "nodemon": "^2.0.15"
+  }
+}
